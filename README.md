@@ -1,2 +1,2 @@
 ﻿# QuizApp-React-Application
-to Check your basic understanding of computer
+To Check your basic understanding of computer
